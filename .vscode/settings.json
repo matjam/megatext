@@ -1,0 +1,26 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "C_Cpp.default.systemIncludePath": [
+        "/usr/local/lib/calypsi-6502/include"
+    ],
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    },
+    "C_Cpp.default.defines": [
+        "__CALYPSI_CORE_45GS02__",
+        "__CALYPSI_TARGET_SYSTEM_MEGA65__",
+        "__CALYPSI_CODE_MODEL_BANKED__",
+        "__BIG_ENDIAN__",
+        "__CALYPSI_CC__",
+        "__CALYPSI__",
+        "__INT32_TYPE__",
+        "__INT16_TYPE__",
+        "__INT8_TYPE__",
+    ],
+    "C_Cpp.default.includePath": [
+        "${workspaceRoot}/include",
+    ],
+    "editor.formatOnSave": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
